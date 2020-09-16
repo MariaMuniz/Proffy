@@ -1,0 +1,33 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add expo-cli — global
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Maria Muniz\bin;C:\Program Files\Amazon Corretto\jdk1.8.0_242\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Users\Maria Muniz\codenation_windows;C:\Gradle\gradle-6.2.2\bin;C:\Gradle\gradle-6.0.1\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Users\Maria Muniz\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Maria Muniz\codenation_windows\codenation.exe;C:\Program Files\heroku\bin;C:\Users\Maria Muniz\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Maria Muniz\AppData\Roaming\npm;C:\Users\Maria Muniz\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+      at new ClientRequest (_http_client.js:148:13)
+      at Object.request (https.js:314:10)
+      at Request.module.exports.Request.start (C:\Program Files (x86)\Yarn\lib\cli.js:141310:32)
+      at Request.module.exports.Request.end (C:\Program Files (x86)\Yarn\lib\cli.js:142069:10)
+      at end (C:\Program Files (x86)\Yarn\lib\cli.js:141123:14)
+      at Immediate._onImmediate (C:\Program Files (x86)\Yarn\lib\cli.js:141137:7)
+      at processImmediate (internal/timers.js:456:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
