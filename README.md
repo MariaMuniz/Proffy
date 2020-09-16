@@ -2,6 +2,11 @@
 Projeto desenvolvido durante a Next Level Week 2, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
  O projeto visa conectar alunos que querem estudar e professores que querem ensinar.
  
+ # Telas
+ ![Proffy](https://github.com/MariaMuniz/Ecoleta/blob/master/img/img1.png)
+ ![Proffy](https://github.com/MariaMuniz/Ecoleta/blob/master/img/img2.png)
+ ![Proffy](https://github.com/MariaMuniz/Ecoleta/blob/master/img/img3.png) 
+ 
  # Instalação
   # Server
 Aplicação feita em Node.js e Typescript que utiliza o SQLite como banco de dados. Ele é indispensável para a aplicação, portanto deve ser o primeiro a entrar em funcionamento.
