@@ -3,9 +3,9 @@ Projeto desenvolvido durante a Next Level Week 2, realizada pela @Rocketseat dur
  O projeto visa conectar alunos que querem estudar e professores que querem ensinar.
  
  # Telas
- ![Proffy](https://github.com/MariaMuniz/Ecoleta/blob/master/img/img1.png)
- ![Proffy](https://github.com/MariaMuniz/Ecoleta/blob/master/img/img2.png)
- ![Proffy](https://github.com/MariaMuniz/Ecoleta/blob/master/img/img3.png) 
+ ![Proffy](https://github.com/MariaMuniz/Proffy/blob/master/img/img1.png)
+ ![Proffy](https://github.com/MariaMuniz/Proffy/blob/master/img/img2.png)
+ ![Proffy](https://github.com/MariaMuniz/Proffy/blob/master/img/img3.png) 
  
  # Instalação
   # Server
