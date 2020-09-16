@@ -1,9 +1,5 @@
 # Proffy
-yarn knex:migrate
-
-
-# Proffs
- Curso Next Level Week 2, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
+Projeto desenvolvido durante a Next Level Week 2, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
  O projeto visa conectar alunos que querem estudar e professores que querem ensinar.
  
  # Instalação
